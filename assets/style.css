@@ -6,12 +6,12 @@
 
 @font-face {
   font-family: League Spartan;
-  src: url(/assets/fonts/league-spartan-v11-latin-regular.woff2);
+  src: url(./assets/fonts/league-spartan-v11-latin-regular.woff2);
 }
 
 @font-face {
   font-family: antonio;
-  src: url(/assets/fonts/antonio.woff2);
+  src: url(./assets/fonts/antonio.woff2);
 }
 body {
   background-color: #070724;
